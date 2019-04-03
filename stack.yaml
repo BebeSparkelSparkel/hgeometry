@@ -1,6 +1,5 @@
 flags:
     hgeometry:
-        examples: true
         interactive: false
 packages:
 - '.'
@@ -14,4 +13,4 @@ build:
   # executable-profiling: true
 extra-lib-dirs:
 - /usr/lib
-resolver: lts-13.0
+resolver: lts-13.15

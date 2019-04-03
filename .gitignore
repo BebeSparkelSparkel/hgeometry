@@ -16,3 +16,7 @@ cabal.sandbox.config
 *.imports
 .ghc.environment*
 .packcheck
+*.DS_Store
+*.swp
+*.swo
+dist-newstyle
